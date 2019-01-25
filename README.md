@@ -25,7 +25,7 @@ var bezierCurves = fitCurve(points, error);
 
 You can play around with that in this [demo](http://kiexpert.kivilab.co.kr/fit-curve/demo).
 
-![demo](http://kiexpert.kivilab.co.kr/fit-curves/demo-screenshot.png "Demo")
+![demo](http://kiexpert.kivilab.co.kr/fit-curve/demo-screenshot.png "Demo")
 
 ## Changelog
 
